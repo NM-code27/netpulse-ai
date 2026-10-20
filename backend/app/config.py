@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     ollama_base_url: str = "http://localhost:11434"
     ollama_model: str = "llama3.1"
     groq_api_key: str = ""
-    groq_model: str = "llama-3.1-8b-instant"
+    groq_model: str = "openai/gpt-oss-20b"
 
     # The live simulator runs simulated-minutes this many times faster than
     # real time. Fault ramps (e.g. a 12-simulated-minute link degradation)

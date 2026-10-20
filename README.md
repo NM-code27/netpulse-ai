@@ -13,6 +13,9 @@ with an estimated lead time, the root-cause engine rank *why* (WAN link? device?
 shared DNS? shared app tier?) using the network's actual topology, and an AI
 assistant explain it in plain language with concrete next steps.
 
+**Live:** https://netpulse-ai-xi.vercel.app -- backend is on a free tier that
+sleeps after inactivity, so the first load can take ~30-50s to wake up.
+
 ![NetPulse AI overview -- live fault detection in progress](docs/screenshots/overview.png)
 
 <details>
@@ -153,7 +156,9 @@ Spins up Postgres + the backend + the frontend together (see
   [backend/Dockerfile](backend/Dockerfile) (see [render.yaml](render.yaml)).
   Ollama can't run on Render's free plan, so set `LLM_PROVIDER=groq` and a free
   [Groq](https://console.groq.com) API key -- the assistant still works for
-  anyone who opens the deployed link.
+  anyone who opens the deployed link. Groq's available models change over
+  time; if `GROQ_MODEL` starts returning `model_not_found`, check
+  `https://api.groq.com/openai/v1/models` with your key for current options.
 - **Database** -> [Neon](https://neon.tech) free Postgres tier; set
   `DATABASE_URL` on Render to the connection string it gives you.
 - **Frontend** -> [Vercel](https://vercel.com), importing the `frontend/`

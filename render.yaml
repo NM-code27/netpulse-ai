@@ -14,7 +14,7 @@ services:
       - key: GROQ_API_KEY
         sync: false   # create a free key at console.groq.com
       - key: GROQ_MODEL
-        value: llama-3.1-8b-instant
+        value: openai/gpt-oss-20b
       - key: CORS_ORIGINS
         sync: false   # set to your deployed Vercel URL, e.g. https://netpulse-ai.vercel.app
       - key: SIMULATOR_TICK_SECONDS
