@@ -9,9 +9,12 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-# Pre-trained model artifacts and historical data are generated at build time
-# so the deployed instance starts with working forecasts/anomaly scores from tick one.
-RUN python -m app.simulator.historical && python -m app.ml.train
+# Trained model artifacts (app/ml/artifacts/*.joblib, training_report.json) are
+# committed to the repo rather than regenerated here -- retraining needs ~2M
+# rows of historical data and trains 40+ models, which risks exceeding a free
+# hosting tier's build time/memory. The live simulator starts from an empty
+# DB and builds up its own data on tick; it only needs the pre-trained
+# artifacts for inference, which COPY . . above already brought in.
 
 EXPOSE 8000
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
