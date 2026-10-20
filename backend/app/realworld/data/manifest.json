@@ -1,0 +1,19 @@
+{
+  "fetched_at": 1792414174,
+  "measurements": {
+    "1001": {
+      "id": 1001,
+      "target": "k.root-servers.net",
+      "label": "RIPE Atlas -> k-root DNS (global)",
+      "bucket_count": 289,
+      "raw_sample_count": 17988
+    },
+    "1004": {
+      "id": 1004,
+      "target": "f.root-servers.net",
+      "label": "RIPE Atlas -> f-root DNS (global)",
+      "bucket_count": 289,
+      "raw_sample_count": 17987
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.claude/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.env
+.env.local
+.env.*.local
+node_modules/
+.next/
+out/
+dist/
+build/
+*.log
+.DS_Store
+# Trained model artifacts (training_report.json + *.joblib) ARE committed --
+# small (a few MB total) and it means the repo runs out of the box without
+# a multi-minute retrain. Only the large, fully-regenerable raw historical
+# dataset is excluded.
+backend/app/ml/data/
+backend/netpulse.db*
+.pytest_cache/
+coverage/

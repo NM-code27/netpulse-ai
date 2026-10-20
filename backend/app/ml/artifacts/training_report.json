@@ -1,0 +1,385 @@
+{
+  "generated_at": "2026-10-19T10:08:05.869296+00:00",
+  "metrics": {
+    "latency_ms": {
+      "forecast": {
+        "mae": 1.863,
+        "rmse": 4.883,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.51,
+          "recall": 0.963,
+          "pr_auc": 0.676,
+          "positive_rate_test": 0.0009
+        },
+        "20": {
+          "precision": 0.175,
+          "recall": 0.812,
+          "pr_auc": 0.444,
+          "positive_rate_test": 0.0011
+        },
+        "30": {
+          "precision": 0.06,
+          "recall": 0.716,
+          "pr_auc": 0.427,
+          "positive_rate_test": 0.0013
+        }
+      },
+      "false_alarms_per_entity_day": 3.705,
+      "train_rows": 172560,
+      "test_rows": 57540
+    },
+    "packet_loss_pct": {
+      "forecast": {
+        "mae": 0.029,
+        "rmse": 0.217,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.716,
+          "recall": 0.914,
+          "pr_auc": 0.85,
+          "positive_rate_test": 0.001
+        },
+        "20": {
+          "precision": 0.154,
+          "recall": 0.779,
+          "pr_auc": 0.747,
+          "positive_rate_test": 0.0012
+        },
+        "30": {
+          "precision": 0.045,
+          "recall": 0.679,
+          "pr_auc": 0.639,
+          "positive_rate_test": 0.0014
+        }
+      },
+      "false_alarms_per_entity_day": 7.248,
+      "train_rows": 172560,
+      "test_rows": 57540
+    },
+    "jitter_ms": {
+      "forecast": {
+        "mae": 0.323,
+        "rmse": 0.62,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.411,
+          "recall": 0.895,
+          "pr_auc": 0.559,
+          "positive_rate_test": 0.001
+        },
+        "20": {
+          "precision": 0.116,
+          "recall": 0.776,
+          "pr_auc": 0.458,
+          "positive_rate_test": 0.0012
+        },
+        "30": {
+          "precision": 0.045,
+          "recall": 0.675,
+          "pr_auc": 0.393,
+          "positive_rate_test": 0.0013
+        }
+      },
+      "false_alarms_per_entity_day": 4.293,
+      "train_rows": 172560,
+      "test_rows": 57540
+    },
+    "bandwidth_util_pct": {
+      "forecast": {
+        "mae": 3.126,
+        "rmse": 4.517,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.754,
+          "recall": 0.929,
+          "pr_auc": 0.916,
+          "positive_rate_test": 0.0039
+        },
+        "20": {
+          "precision": 0.302,
+          "recall": 0.831,
+          "pr_auc": 0.814,
+          "positive_rate_test": 0.0043
+        },
+        "30": {
+          "precision": 0.133,
+          "recall": 0.755,
+          "pr_auc": 0.739,
+          "positive_rate_test": 0.0048
+        }
+      },
+      "false_alarms_per_entity_day": 4.419,
+      "train_rows": 172560,
+      "test_rows": 57540
+    },
+    "cpu_pct": {
+      "forecast": {
+        "mae": 2.601,
+        "rmse": 3.898,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.329,
+          "recall": 0.949,
+          "pr_auc": 0.534,
+          "positive_rate_test": 0.0015
+        },
+        "20": {
+          "precision": 0.275,
+          "recall": 0.9,
+          "pr_auc": 0.636,
+          "positive_rate_test": 0.0019
+        },
+        "30": {
+          "precision": 0.232,
+          "recall": 0.859,
+          "pr_auc": 0.689,
+          "positive_rate_test": 0.0021
+        }
+      },
+      "false_alarms_per_entity_day": 7.785,
+      "train_rows": 353748,
+      "test_rows": 117957
+    },
+    "resolution_time_ms": {
+      "forecast": {
+        "mae": 29.305,
+        "rmse": 68.788,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.946,
+          "recall": 0.908,
+          "pr_auc": 0.927,
+          "positive_rate_test": 0.0532
+        },
+        "20": {
+          "precision": 0.781,
+          "recall": 0.827,
+          "pr_auc": 0.86,
+          "positive_rate_test": 0.0584
+        },
+        "30": {
+          "precision": 0.681,
+          "recall": 0.76,
+          "pr_auc": 0.813,
+          "positive_rate_test": 0.0636
+        }
+      },
+      "false_alarms_per_entity_day": 3.004,
+      "train_rows": 8628,
+      "test_rows": 2877
+    },
+    "response_time_ms": {
+      "forecast": {
+        "mae": 36.516,
+        "rmse": 74.747,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.961,
+          "recall": 0.93,
+          "pr_auc": 0.933,
+          "positive_rate_test": 0.1296
+        },
+        "20": {
+          "precision": 0.953,
+          "recall": 0.85,
+          "pr_auc": 0.873,
+          "positive_rate_test": 0.1418
+        },
+        "30": {
+          "precision": 0.87,
+          "recall": 0.783,
+          "pr_auc": 0.833,
+          "positive_rate_test": 0.154
+        }
+      },
+      "false_alarms_per_entity_day": 7.01,
+      "train_rows": 8628,
+      "test_rows": 2877
+    },
+    "app_response_time_ms": {
+      "forecast": {
+        "mae": 53.272,
+        "rmse": 90.075,
+        "horizon_minutes": 30
+      },
+      "risk_classifiers": {
+        "10": {
+          "precision": 0.978,
+          "recall": 0.921,
+          "pr_auc": 0.946,
+          "positive_rate_test": 0.184
+        },
+        "20": {
+          "precision": 0.968,
+          "recall": 0.845,
+          "pr_auc": 0.905,
+          "positive_rate_test": 0.2015
+        },
+        "30": {
+          "precision": 0.955,
+          "recall": 0.784,
+          "pr_auc": 0.878,
+          "positive_rate_test": 0.2174
+        }
+      },
+      "false_alarms_per_entity_day": 13.018,
+      "train_rows": 181188,
+      "test_rows": 60417
+    }
+  },
+  "root_cause": {
+    "evaluated_on": "held_out_test_period_only",
+    "total_faults_evaluated": 35,
+    "top1_accuracy": 0.714,
+    "top3_accuracy": 0.943,
+    "examples": [
+      {
+        "fault_type": "bandwidth_saturation",
+        "entity_id": "link-wan-05",
+        "true_category": "wan_link",
+        "predicted_ranking": [
+          "wan_link",
+          "device",
+          "app_tier",
+          "dns"
+        ]
+      },
+      {
+        "fault_type": "device_down",
+        "entity_id": "dev-sw-04",
+        "true_category": "device",
+        "predicted_ranking": [
+          "device",
+          "wan_link",
+          "app_tier",
+          "dns"
+        ]
+      },
+      {
+        "fault_type": "app_latency",
+        "entity_id": "svc-apptier",
+        "true_category": "app_tier",
+        "predicted_ranking": [
+          "app_tier",
+          "wan_link",
+          "device",
+          "dns"
+        ]
+      },
+      {
+        "fault_type": "dns_failure",
+        "entity_id": "svc-dns",
+        "true_category": "dns",
+        "predicted_ranking": [
+          "dns",
+          "app_tier",
+          "wan_link",
+          "device"
+        ]
+      },
+      {
+        "fault_type": "app_latency",
+        "entity_id": "svc-apptier",
+        "true_category": "app_tier",
+        "predicted_ranking": [
+          "app_tier",
+          "wan_link",
+          "device",
+          "dns"
+        ]
+      },
+      {
+        "fault_type": "device_down",
+        "entity_id": "dev-sw-05",
+        "true_category": "device",
+        "predicted_ranking": [
+          "device",
+          "wan_link",
+          "dns",
+          "app_tier"
+        ]
+      },
+      {
+        "fault_type": "device_down",
+        "entity_id": "dev-sw-10",
+        "true_category": "device",
+        "predicted_ranking": [
+          "device",
+          "wan_link",
+          "dns",
+          "app_tier"
+        ]
+      },
+      {
+        "fault_type": "app_latency",
+        "entity_id": "svc-apptier",
+        "true_category": "app_tier",
+        "predicted_ranking": [
+          "wan_link",
+          "app_tier",
+          "device",
+          "dns"
+        ]
+      },
+      {
+        "fault_type": "dns_failure",
+        "entity_id": "svc-dns",
+        "true_category": "dns",
+        "predicted_ranking": [
+          "dns",
+          "app_tier",
+          "wan_link",
+          "device"
+        ]
+      },
+      {
+        "fault_type": "bandwidth_saturation",
+        "entity_id": "link-wan-15",
+        "true_category": "wan_link",
+        "predicted_ranking": [
+          "dns",
+          "app_tier",
+          "wan_link",
+          "device"
+        ]
+      },
+      {
+        "fault_type": "app_latency",
+        "entity_id": "svc-apptier",
+        "true_category": "app_tier",
+        "predicted_ranking": [
+          "wan_link",
+          "device",
+          "app_tier",
+          "dns"
+        ]
+      },
+      {
+        "fault_type": "bandwidth_saturation",
+        "entity_id": "link-wan-15",
+        "true_category": "wan_link",
+        "predicted_ranking": [
+          "wan_link",
+          "device",
+          "app_tier",
+          "dns"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2032 @@
+{
+  "meta": {
+    "id": 1001,
+    "target": "k.root-servers.net",
+    "label": "RIPE Atlas -> k-root DNS (global)"
+  },
+  "buckets": [
+    {
+      "timestamp": 1792240800,
+      "mean_rtt_ms": 28.104,
+      "median_rtt_ms": 15.678,
+      "p95_rtt_ms": 104.836,
+      "sample_count": 9
+    },
+    {
+      "timestamp": 1792241400,
+      "mean_rtt_ms": 25.655,
+      "median_rtt_ms": 13.726,
+      "p95_rtt_ms": 96.459,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792242000,
+      "mean_rtt_ms": 27.344,
+      "median_rtt_ms": 14.833,
+      "p95_rtt_ms": 84.665,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792242600,
+      "mean_rtt_ms": 25.996,
+      "median_rtt_ms": 13.794,
+      "p95_rtt_ms": 96.536,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792243200,
+      "mean_rtt_ms": 28.961,
+      "median_rtt_ms": 16.692,
+      "p95_rtt_ms": 96.517,
+      "sample_count": 60
+    },
+    {
+      "timestamp": 1792243800,
+      "mean_rtt_ms": 35.419,
+      "median_rtt_ms": 13.978,
+      "p95_rtt_ms": 96.484,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792244400,
+      "mean_rtt_ms": 28.708,
+      "median_rtt_ms": 15.703,
+      "p95_rtt_ms": 92.123,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792245000,
+      "mean_rtt_ms": 161.507,
+      "median_rtt_ms": 15.291,
+      "p95_rtt_ms": 96.452,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792245600,
+      "mean_rtt_ms": 30.285,
+      "median_rtt_ms": 16.231,
+      "p95_rtt_ms": 97.226,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792246200,
+      "mean_rtt_ms": 30.13,
+      "median_rtt_ms": 15.707,
+      "p95_rtt_ms": 97.531,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792246800,
+      "mean_rtt_ms": 30.549,
+      "median_rtt_ms": 16.999,
+      "p95_rtt_ms": 96.406,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792247400,
+      "mean_rtt_ms": 26.968,
+      "median_rtt_ms": 14.993,
+      "p95_rtt_ms": 98.105,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792248000,
+      "mean_rtt_ms": 29.2,
+      "median_rtt_ms": 16.073,
+      "p95_rtt_ms": 93.285,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792248600,
+      "mean_rtt_ms": 27.046,
+      "median_rtt_ms": 13.932,
+      "p95_rtt_ms": 97.044,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792249200,
+      "mean_rtt_ms": 29.877,
+      "median_rtt_ms": 15.533,
+      "p95_rtt_ms": 96.211,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792249800,
+      "mean_rtt_ms": 26.93,
+      "median_rtt_ms": 13.885,
+      "p95_rtt_ms": 96.31,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792250400,
+      "mean_rtt_ms": 27.919,
+      "median_rtt_ms": 16.009,
+      "p95_rtt_ms": 83.977,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792251000,
+      "mean_rtt_ms": 26.531,
+      "median_rtt_ms": 14.334,
+      "p95_rtt_ms": 97.352,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792251600,
+      "mean_rtt_ms": 27.793,
+      "median_rtt_ms": 16.033,
+      "p95_rtt_ms": 84.185,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792252200,
+      "mean_rtt_ms": 25.497,
+      "median_rtt_ms": 14.027,
+      "p95_rtt_ms": 81.956,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792252800,
+      "mean_rtt_ms": 28.453,
+      "median_rtt_ms": 17.261,
+      "p95_rtt_ms": 82.96,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792253400,
+      "mean_rtt_ms": 26.414,
+      "median_rtt_ms": 15.867,
+      "p95_rtt_ms": 97.408,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792254000,
+      "mean_rtt_ms": 27.43,
+      "median_rtt_ms": 16.096,
+      "p95_rtt_ms": 80.175,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792254600,
+      "mean_rtt_ms": 26.231,
+      "median_rtt_ms": 14.126,
+      "p95_rtt_ms": 96.275,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792255200,
+      "mean_rtt_ms": 28.858,
+      "median_rtt_ms": 16.058,
+      "p95_rtt_ms": 93.203,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792255800,
+      "mean_rtt_ms": 25.658,
+      "median_rtt_ms": 15.131,
+      "p95_rtt_ms": 79.356,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792256400,
+      "mean_rtt_ms": 28.68,
+      "median_rtt_ms": 16.552,
+      "p95_rtt_ms": 79.377,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792257000,
+      "mean_rtt_ms": 25.63,
+      "median_rtt_ms": 13.937,
+      "p95_rtt_ms": 79.867,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792257600,
+      "mean_rtt_ms": 27.859,
+      "median_rtt_ms": 15.9,
+      "p95_rtt_ms": 85.976,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792258200,
+      "mean_rtt_ms": 25.667,
+      "median_rtt_ms": 14.36,
+      "p95_rtt_ms": 86.157,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792258800,
+      "mean_rtt_ms": 27.899,
+      "median_rtt_ms": 15.75,
+      "p95_rtt_ms": 84.961,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792259400,
+      "mean_rtt_ms": 25.204,
+      "median_rtt_ms": 14.985,
+      "p95_rtt_ms": 79.584,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792260000,
+      "mean_rtt_ms": 28.6,
+      "median_rtt_ms": 16.161,
+      "p95_rtt_ms": 85.961,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792260600,
+      "mean_rtt_ms": 25.404,
+      "median_rtt_ms": 13.969,
+      "p95_rtt_ms": 86.915,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792261200,
+      "mean_rtt_ms": 27.903,
+      "median_rtt_ms": 16.383,
+      "p95_rtt_ms": 87.958,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792261800,
+      "mean_rtt_ms": 26.185,
+      "median_rtt_ms": 16.095,
+      "p95_rtt_ms": 89.782,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792262400,
+      "mean_rtt_ms": 27.492,
+      "median_rtt_ms": 15.941,
+      "p95_rtt_ms": 81.997,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792263000,
+      "mean_rtt_ms": 25.532,
+      "median_rtt_ms": 15.411,
+      "p95_rtt_ms": 87.957,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792263600,
+      "mean_rtt_ms": 28.288,
+      "median_rtt_ms": 15.145,
+      "p95_rtt_ms": 89.289,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792264200,
+      "mean_rtt_ms": 25.213,
+      "median_rtt_ms": 13.583,
+      "p95_rtt_ms": 91.501,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792264800,
+      "mean_rtt_ms": 27.704,
+      "median_rtt_ms": 16.691,
+      "p95_rtt_ms": 92.559,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792265400,
+      "mean_rtt_ms": 26.208,
+      "median_rtt_ms": 14.418,
+      "p95_rtt_ms": 96.135,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792266000,
+      "mean_rtt_ms": 27.628,
+      "median_rtt_ms": 16.21,
+      "p95_rtt_ms": 88.024,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792266600,
+      "mean_rtt_ms": 25.843,
+      "median_rtt_ms": 15.738,
+      "p95_rtt_ms": 83.612,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792267200,
+      "mean_rtt_ms": 30.106,
+      "median_rtt_ms": 16.218,
+      "p95_rtt_ms": 86.713,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792267800,
+      "mean_rtt_ms": 26.324,
+      "median_rtt_ms": 16.324,
+      "p95_rtt_ms": 96.662,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792268400,
+      "mean_rtt_ms": 27.899,
+      "median_rtt_ms": 15.588,
+      "p95_rtt_ms": 88.747,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792269000,
+      "mean_rtt_ms": 25.893,
+      "median_rtt_ms": 13.91,
+      "p95_rtt_ms": 96.358,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792269600,
+      "mean_rtt_ms": 27.42,
+      "median_rtt_ms": 15.979,
+      "p95_rtt_ms": 86.628,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792270200,
+      "mean_rtt_ms": 26.922,
+      "median_rtt_ms": 16.41,
+      "p95_rtt_ms": 96.555,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792270800,
+      "mean_rtt_ms": 28.284,
+      "median_rtt_ms": 16.26,
+      "p95_rtt_ms": 91.538,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792271400,
+      "mean_rtt_ms": 25.654,
+      "median_rtt_ms": 13.798,
+      "p95_rtt_ms": 89.933,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792272000,
+      "mean_rtt_ms": 28.082,
+      "median_rtt_ms": 16.223,
+      "p95_rtt_ms": 87.08,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792272600,
+      "mean_rtt_ms": 59.708,
+      "median_rtt_ms": 16.48,
+      "p95_rtt_ms": 97.93,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792273200,
+      "mean_rtt_ms": 28.273,
+      "median_rtt_ms": 15.62,
+      "p95_rtt_ms": 86.029,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792273800,
+      "mean_rtt_ms": 27.015,
+      "median_rtt_ms": 16.765,
+      "p95_rtt_ms": 96.595,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792274400,
+      "mean_rtt_ms": 28.155,
+      "median_rtt_ms": 15.38,
+      "p95_rtt_ms": 96.196,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792275000,
+      "mean_rtt_ms": 26.14,
+      "median_rtt_ms": 15.43,
+      "p95_rtt_ms": 95.821,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792275600,
+      "mean_rtt_ms": 27.916,
+      "median_rtt_ms": 16.404,
+      "p95_rtt_ms": 79.614,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792276200,
+      "mean_rtt_ms": 28.728,
+      "median_rtt_ms": 16.787,
+      "p95_rtt_ms": 96.478,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792276800,
+      "mean_rtt_ms": 31.221,
+      "median_rtt_ms": 16.254,
+      "p95_rtt_ms": 89.357,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792277400,
+      "mean_rtt_ms": 25.307,
+      "median_rtt_ms": 13.804,
+      "p95_rtt_ms": 86.709,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792278000,
+      "mean_rtt_ms": 27.871,
+      "median_rtt_ms": 15.117,
+      "p95_rtt_ms": 90.592,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792278600,
+      "mean_rtt_ms": 25.432,
+      "median_rtt_ms": 14.237,
+      "p95_rtt_ms": 93.684,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792279200,
+      "mean_rtt_ms": 27.578,
+      "median_rtt_ms": 16.116,
+      "p95_rtt_ms": 90.356,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792279800,
+      "mean_rtt_ms": 25.31,
+      "median_rtt_ms": 14.098,
+      "p95_rtt_ms": 86.824,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792280400,
+      "mean_rtt_ms": 28.728,
+      "median_rtt_ms": 16.151,
+      "p95_rtt_ms": 94.64,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792281000,
+      "mean_rtt_ms": 26.916,
+      "median_rtt_ms": 13.876,
+      "p95_rtt_ms": 96.541,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792281600,
+      "mean_rtt_ms": 27.936,
+      "median_rtt_ms": 16.48,
+      "p95_rtt_ms": 97.167,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792282200,
+      "mean_rtt_ms": 25.328,
+      "median_rtt_ms": 14.718,
+      "p95_rtt_ms": 86.697,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792282800,
+      "mean_rtt_ms": 28.467,
+      "median_rtt_ms": 14.959,
+      "p95_rtt_ms": 97.111,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792283400,
+      "mean_rtt_ms": 25.868,
+      "median_rtt_ms": 13.961,
+      "p95_rtt_ms": 96.447,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792284000,
+      "mean_rtt_ms": 28.903,
+      "median_rtt_ms": 15.472,
+      "p95_rtt_ms": 87.319,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792284600,
+      "mean_rtt_ms": 25.422,
+      "median_rtt_ms": 13.683,
+      "p95_rtt_ms": 86.841,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792285200,
+      "mean_rtt_ms": 27.638,
+      "median_rtt_ms": 15.26,
+      "p95_rtt_ms": 89.775,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792285800,
+      "mean_rtt_ms": 25.56,
+      "median_rtt_ms": 13.708,
+      "p95_rtt_ms": 91.213,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792286400,
+      "mean_rtt_ms": 27.675,
+      "median_rtt_ms": 15.817,
+      "p95_rtt_ms": 85.18,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792287000,
+      "mean_rtt_ms": 26.19,
+      "median_rtt_ms": 13.736,
+      "p95_rtt_ms": 96.23,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792287600,
+      "mean_rtt_ms": 27.258,
+      "median_rtt_ms": 16.065,
+      "p95_rtt_ms": 92.811,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792288200,
+      "mean_rtt_ms": 26.063,
+      "median_rtt_ms": 14.532,
+      "p95_rtt_ms": 96.335,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792288800,
+      "mean_rtt_ms": 28.529,
+      "median_rtt_ms": 15.214,
+      "p95_rtt_ms": 94.167,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792289400,
+      "mean_rtt_ms": 25.376,
+      "median_rtt_ms": 13.969,
+      "p95_rtt_ms": 85.99,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792290000,
+      "mean_rtt_ms": 28.003,
+      "median_rtt_ms": 16.143,
+      "p95_rtt_ms": 93.589,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792290600,
+      "mean_rtt_ms": 25.465,
+      "median_rtt_ms": 13.644,
+      "p95_rtt_ms": 96.599,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792291200,
+      "mean_rtt_ms": 27.571,
+      "median_rtt_ms": 16.536,
+      "p95_rtt_ms": 86.487,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792291800,
+      "mean_rtt_ms": 25.008,
+      "median_rtt_ms": 13.831,
+      "p95_rtt_ms": 85.502,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792292400,
+      "mean_rtt_ms": 27.196,
+      "median_rtt_ms": 16.35,
+      "p95_rtt_ms": 87.439,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792293000,
+      "mean_rtt_ms": 25.536,
+      "median_rtt_ms": 13.952,
+      "p95_rtt_ms": 96.297,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792293600,
+      "mean_rtt_ms": 27.252,
+      "median_rtt_ms": 16.104,
+      "p95_rtt_ms": 78.301,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792294200,
+      "mean_rtt_ms": 26.074,
+      "median_rtt_ms": 13.892,
+      "p95_rtt_ms": 91.08,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792294800,
+      "mean_rtt_ms": 26.964,
+      "median_rtt_ms": 15.244,
+      "p95_rtt_ms": 85.37,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792295400,
+      "mean_rtt_ms": 25.098,
+      "median_rtt_ms": 13.681,
+      "p95_rtt_ms": 85.21,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792296000,
+      "mean_rtt_ms": 27.827,
+      "median_rtt_ms": 16.024,
+      "p95_rtt_ms": 90.428,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792296600,
+      "mean_rtt_ms": 26.268,
+      "median_rtt_ms": 13.736,
+      "p95_rtt_ms": 83.103,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792297200,
+      "mean_rtt_ms": 28.098,
+      "median_rtt_ms": 16.16,
+      "p95_rtt_ms": 88.521,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792297800,
+      "mean_rtt_ms": 26.199,
+      "median_rtt_ms": 13.731,
+      "p95_rtt_ms": 89.126,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792298400,
+      "mean_rtt_ms": 27.669,
+      "median_rtt_ms": 15.943,
+      "p95_rtt_ms": 87.108,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792299000,
+      "mean_rtt_ms": 25.817,
+      "median_rtt_ms": 13.69,
+      "p95_rtt_ms": 96.335,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792299600,
+      "mean_rtt_ms": 34.521,
+      "median_rtt_ms": 15.95,
+      "p95_rtt_ms": 97.437,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792300200,
+      "mean_rtt_ms": 25.468,
+      "median_rtt_ms": 13.65,
+      "p95_rtt_ms": 89.496,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792300800,
+      "mean_rtt_ms": 27.641,
+      "median_rtt_ms": 16.024,
+      "p95_rtt_ms": 81.001,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792301400,
+      "mean_rtt_ms": 26.869,
+      "median_rtt_ms": 15.846,
+      "p95_rtt_ms": 96.26,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792302000,
+      "mean_rtt_ms": 28.561,
+      "median_rtt_ms": 15.927,
+      "p95_rtt_ms": 90.486,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792302600,
+      "mean_rtt_ms": 25.806,
+      "median_rtt_ms": 13.645,
+      "p95_rtt_ms": 96.744,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792303200,
+      "mean_rtt_ms": 28.919,
+      "median_rtt_ms": 16.885,
+      "p95_rtt_ms": 89.293,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792303800,
+      "mean_rtt_ms": 25.594,
+      "median_rtt_ms": 13.85,
+      "p95_rtt_ms": 82.123,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792304400,
+      "mean_rtt_ms": 31.889,
+      "median_rtt_ms": 16.085,
+      "p95_rtt_ms": 97.193,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792305000,
+      "mean_rtt_ms": 26.157,
+      "median_rtt_ms": 13.918,
+      "p95_rtt_ms": 96.177,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792305600,
+      "mean_rtt_ms": 30.742,
+      "median_rtt_ms": 16.324,
+      "p95_rtt_ms": 97.332,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792306200,
+      "mean_rtt_ms": 26.968,
+      "median_rtt_ms": 14.748,
+      "p95_rtt_ms": 96.404,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792306800,
+      "mean_rtt_ms": 28.652,
+      "median_rtt_ms": 16.747,
+      "p95_rtt_ms": 96.773,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792307400,
+      "mean_rtt_ms": 26.455,
+      "median_rtt_ms": 14.651,
+      "p95_rtt_ms": 96.5,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792308000,
+      "mean_rtt_ms": 29.981,
+      "median_rtt_ms": 16.549,
+      "p95_rtt_ms": 98.382,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792308600,
+      "mean_rtt_ms": 27.548,
+      "median_rtt_ms": 14.323,
+      "p95_rtt_ms": 96.638,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792309200,
+      "mean_rtt_ms": 28.275,
+      "median_rtt_ms": 16.252,
+      "p95_rtt_ms": 94.717,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792309800,
+      "mean_rtt_ms": 27.16,
+      "median_rtt_ms": 14.293,
+      "p95_rtt_ms": 92.28,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792310400,
+      "mean_rtt_ms": 28.867,
+      "median_rtt_ms": 17.163,
+      "p95_rtt_ms": 96.74,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792311000,
+      "mean_rtt_ms": 27.368,
+      "median_rtt_ms": 13.798,
+      "p95_rtt_ms": 96.582,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792311600,
+      "mean_rtt_ms": 30.88,
+      "median_rtt_ms": 16.014,
+      "p95_rtt_ms": 96.34,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792312200,
+      "mean_rtt_ms": 26.278,
+      "median_rtt_ms": 14.921,
+      "p95_rtt_ms": 96.375,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792312800,
+      "mean_rtt_ms": 52.263,
+      "median_rtt_ms": 16.18,
+      "p95_rtt_ms": 96.76,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792313400,
+      "mean_rtt_ms": 25.967,
+      "median_rtt_ms": 14.966,
+      "p95_rtt_ms": 96.408,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792314000,
+      "mean_rtt_ms": 28.646,
+      "median_rtt_ms": 15.957,
+      "p95_rtt_ms": 97.928,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792314600,
+      "mean_rtt_ms": 27.087,
+      "median_rtt_ms": 14.519,
+      "p95_rtt_ms": 96.872,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792315200,
+      "mean_rtt_ms": 29.03,
+      "median_rtt_ms": 15.156,
+      "p95_rtt_ms": 97.345,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792315800,
+      "mean_rtt_ms": 26.052,
+      "median_rtt_ms": 15.352,
+      "p95_rtt_ms": 95.917,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792316400,
+      "mean_rtt_ms": 29.092,
+      "median_rtt_ms": 15.647,
+      "p95_rtt_ms": 88.531,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792317000,
+      "mean_rtt_ms": 26.9,
+      "median_rtt_ms": 13.946,
+      "p95_rtt_ms": 105.621,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792317600,
+      "mean_rtt_ms": 32.411,
+      "median_rtt_ms": 16.955,
+      "p95_rtt_ms": 99.21,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792318200,
+      "mean_rtt_ms": 26.413,
+      "median_rtt_ms": 14.123,
+      "p95_rtt_ms": 90.957,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792318800,
+      "mean_rtt_ms": 32.481,
+      "median_rtt_ms": 15.262,
+      "p95_rtt_ms": 106.089,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792319400,
+      "mean_rtt_ms": 29.554,
+      "median_rtt_ms": 14.063,
+      "p95_rtt_ms": 105.582,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792320000,
+      "mean_rtt_ms": 29.687,
+      "median_rtt_ms": 16.066,
+      "p95_rtt_ms": 94.6,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792320600,
+      "mean_rtt_ms": 26.431,
+      "median_rtt_ms": 14.332,
+      "p95_rtt_ms": 91.949,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792321200,
+      "mean_rtt_ms": 28.398,
+      "median_rtt_ms": 15.574,
+      "p95_rtt_ms": 87.839,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792321800,
+      "mean_rtt_ms": 26.347,
+      "median_rtt_ms": 14.134,
+      "p95_rtt_ms": 92.712,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792322400,
+      "mean_rtt_ms": 28.91,
+      "median_rtt_ms": 16.403,
+      "p95_rtt_ms": 89.555,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792323000,
+      "mean_rtt_ms": 26.596,
+      "median_rtt_ms": 14.122,
+      "p95_rtt_ms": 90.862,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792323600,
+      "mean_rtt_ms": 28.87,
+      "median_rtt_ms": 16.15,
+      "p95_rtt_ms": 88.404,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792324200,
+      "mean_rtt_ms": 29.591,
+      "median_rtt_ms": 16.408,
+      "p95_rtt_ms": 105.608,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792324800,
+      "mean_rtt_ms": 28.824,
+      "median_rtt_ms": 16.186,
+      "p95_rtt_ms": 87.795,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792325400,
+      "mean_rtt_ms": 26.816,
+      "median_rtt_ms": 14.221,
+      "p95_rtt_ms": 92.014,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792326000,
+      "mean_rtt_ms": 28.983,
+      "median_rtt_ms": 16.611,
+      "p95_rtt_ms": 91.248,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792326600,
+      "mean_rtt_ms": 27.054,
+      "median_rtt_ms": 16.116,
+      "p95_rtt_ms": 90.148,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792327200,
+      "mean_rtt_ms": 28.063,
+      "median_rtt_ms": 14.656,
+      "p95_rtt_ms": 89.216,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792327800,
+      "mean_rtt_ms": 27.327,
+      "median_rtt_ms": 14.821,
+      "p95_rtt_ms": 102.728,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792328400,
+      "mean_rtt_ms": 29.013,
+      "median_rtt_ms": 15.639,
+      "p95_rtt_ms": 89.705,
+      "sample_count": 60
+    },
+    {
+      "timestamp": 1792329000,
+      "mean_rtt_ms": 27.982,
+      "median_rtt_ms": 14.435,
+      "p95_rtt_ms": 106.235,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792329600,
+      "mean_rtt_ms": 29.215,
+      "median_rtt_ms": 16.372,
+      "p95_rtt_ms": 94.217,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792330200,
+      "mean_rtt_ms": 26.557,
+      "median_rtt_ms": 14.527,
+      "p95_rtt_ms": 100.2,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792330800,
+      "mean_rtt_ms": 28.437,
+      "median_rtt_ms": 15.428,
+      "p95_rtt_ms": 90.188,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792331400,
+      "mean_rtt_ms": 26.055,
+      "median_rtt_ms": 13.791,
+      "p95_rtt_ms": 88.947,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792332000,
+      "mean_rtt_ms": 30.099,
+      "median_rtt_ms": 16.401,
+      "p95_rtt_ms": 105.219,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792332600,
+      "mean_rtt_ms": 27.087,
+      "median_rtt_ms": 14.434,
+      "p95_rtt_ms": 103.695,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792333200,
+      "mean_rtt_ms": 32.551,
+      "median_rtt_ms": 15.699,
+      "p95_rtt_ms": 99.666,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792333800,
+      "mean_rtt_ms": 26.465,
+      "median_rtt_ms": 13.828,
+      "p95_rtt_ms": 95.694,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792334400,
+      "mean_rtt_ms": 29.127,
+      "median_rtt_ms": 16.128,
+      "p95_rtt_ms": 92.78,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792335000,
+      "mean_rtt_ms": 26.274,
+      "median_rtt_ms": 13.884,
+      "p95_rtt_ms": 96.462,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792335600,
+      "mean_rtt_ms": 29.09,
+      "median_rtt_ms": 16.203,
+      "p95_rtt_ms": 96.023,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792336200,
+      "mean_rtt_ms": 26.609,
+      "median_rtt_ms": 16.229,
+      "p95_rtt_ms": 93.453,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792336800,
+      "mean_rtt_ms": 29.33,
+      "median_rtt_ms": 17.74,
+      "p95_rtt_ms": 95.769,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792337400,
+      "mean_rtt_ms": 26.494,
+      "median_rtt_ms": 16.321,
+      "p95_rtt_ms": 96.043,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792338000,
+      "mean_rtt_ms": 29.302,
+      "median_rtt_ms": 15.727,
+      "p95_rtt_ms": 93.941,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792338600,
+      "mean_rtt_ms": 26.391,
+      "median_rtt_ms": 15.985,
+      "p95_rtt_ms": 96.511,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792339200,
+      "mean_rtt_ms": 30.413,
+      "median_rtt_ms": 17.035,
+      "p95_rtt_ms": 97.303,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792339800,
+      "mean_rtt_ms": 27.068,
+      "median_rtt_ms": 14.374,
+      "p95_rtt_ms": 96.916,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792340400,
+      "mean_rtt_ms": 29.577,
+      "median_rtt_ms": 16.242,
+      "p95_rtt_ms": 102.277,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792341000,
+      "mean_rtt_ms": 27.363,
+      "median_rtt_ms": 14.858,
+      "p95_rtt_ms": 96.141,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792341600,
+      "mean_rtt_ms": 28.79,
+      "median_rtt_ms": 16.297,
+      "p95_rtt_ms": 93.24,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792342200,
+      "mean_rtt_ms": 27.078,
+      "median_rtt_ms": 14.74,
+      "p95_rtt_ms": 97.292,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792342800,
+      "mean_rtt_ms": 38.149,
+      "median_rtt_ms": 16.719,
+      "p95_rtt_ms": 96.271,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792343400,
+      "mean_rtt_ms": 28.619,
+      "median_rtt_ms": 15.766,
+      "p95_rtt_ms": 96.672,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792344000,
+      "mean_rtt_ms": 28.669,
+      "median_rtt_ms": 17.135,
+      "p95_rtt_ms": 96.601,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792344600,
+      "mean_rtt_ms": 26.672,
+      "median_rtt_ms": 16.289,
+      "p95_rtt_ms": 92.358,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792345200,
+      "mean_rtt_ms": 28.84,
+      "median_rtt_ms": 16.349,
+      "p95_rtt_ms": 94.67,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792345800,
+      "mean_rtt_ms": 26.422,
+      "median_rtt_ms": 15.117,
+      "p95_rtt_ms": 96.659,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792346400,
+      "mean_rtt_ms": 29.634,
+      "median_rtt_ms": 17.505,
+      "p95_rtt_ms": 88.247,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792347000,
+      "mean_rtt_ms": 26.148,
+      "median_rtt_ms": 14.11,
+      "p95_rtt_ms": 88.814,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792347600,
+      "mean_rtt_ms": 29.776,
+      "median_rtt_ms": 17.185,
+      "p95_rtt_ms": 96.91,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792348200,
+      "mean_rtt_ms": 29.53,
+      "median_rtt_ms": 16.511,
+      "p95_rtt_ms": 96.431,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792348800,
+      "mean_rtt_ms": 30.098,
+      "median_rtt_ms": 16.868,
+      "p95_rtt_ms": 98.177,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792349400,
+      "mean_rtt_ms": 27.193,
+      "median_rtt_ms": 15.788,
+      "p95_rtt_ms": 97.696,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792350000,
+      "mean_rtt_ms": 30.912,
+      "median_rtt_ms": 16.15,
+      "p95_rtt_ms": 96.357,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792350600,
+      "mean_rtt_ms": 26.705,
+      "median_rtt_ms": 14.177,
+      "p95_rtt_ms": 92.669,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792351200,
+      "mean_rtt_ms": 29.829,
+      "median_rtt_ms": 16.235,
+      "p95_rtt_ms": 91.385,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792351800,
+      "mean_rtt_ms": 27.125,
+      "median_rtt_ms": 16.023,
+      "p95_rtt_ms": 96.722,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792352400,
+      "mean_rtt_ms": 31.306,
+      "median_rtt_ms": 17.218,
+      "p95_rtt_ms": 97.094,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792353000,
+      "mean_rtt_ms": 27.405,
+      "median_rtt_ms": 15.188,
+      "p95_rtt_ms": 97.359,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792353600,
+      "mean_rtt_ms": 29.389,
+      "median_rtt_ms": 16.259,
+      "p95_rtt_ms": 97.385,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792354200,
+      "mean_rtt_ms": 27.389,
+      "median_rtt_ms": 17.286,
+      "p95_rtt_ms": 96.966,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792354800,
+      "mean_rtt_ms": 29.525,
+      "median_rtt_ms": 17.074,
+      "p95_rtt_ms": 91.699,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792355400,
+      "mean_rtt_ms": 29.881,
+      "median_rtt_ms": 15.245,
+      "p95_rtt_ms": 95.937,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792356000,
+      "mean_rtt_ms": 29.302,
+      "median_rtt_ms": 16.068,
+      "p95_rtt_ms": 97.911,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792356600,
+      "mean_rtt_ms": 27.685,
+      "median_rtt_ms": 13.715,
+      "p95_rtt_ms": 97.534,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792357200,
+      "mean_rtt_ms": 30.889,
+      "median_rtt_ms": 16.442,
+      "p95_rtt_ms": 96.681,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792357800,
+      "mean_rtt_ms": 27.897,
+      "median_rtt_ms": 13.735,
+      "p95_rtt_ms": 97.702,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792358400,
+      "mean_rtt_ms": 29.701,
+      "median_rtt_ms": 15.971,
+      "p95_rtt_ms": 96.415,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792359000,
+      "mean_rtt_ms": 27.346,
+      "median_rtt_ms": 15.899,
+      "p95_rtt_ms": 98.281,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792359600,
+      "mean_rtt_ms": 29.697,
+      "median_rtt_ms": 15.57,
+      "p95_rtt_ms": 97.21,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792360200,
+      "mean_rtt_ms": 27.226,
+      "median_rtt_ms": 15.727,
+      "p95_rtt_ms": 96.958,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792360800,
+      "mean_rtt_ms": 31.011,
+      "median_rtt_ms": 16.149,
+      "p95_rtt_ms": 96.654,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792361400,
+      "mean_rtt_ms": 26.735,
+      "median_rtt_ms": 16.072,
+      "p95_rtt_ms": 93.005,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792362000,
+      "mean_rtt_ms": 28.811,
+      "median_rtt_ms": 16.176,
+      "p95_rtt_ms": 95.272,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792362600,
+      "mean_rtt_ms": 25.84,
+      "median_rtt_ms": 13.95,
+      "p95_rtt_ms": 91.837,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792363200,
+      "mean_rtt_ms": 29.493,
+      "median_rtt_ms": 15.081,
+      "p95_rtt_ms": 96.242,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792363800,
+      "mean_rtt_ms": 26.333,
+      "median_rtt_ms": 13.89,
+      "p95_rtt_ms": 92.425,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792364400,
+      "mean_rtt_ms": 28.726,
+      "median_rtt_ms": 16.491,
+      "p95_rtt_ms": 90.377,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792365000,
+      "mean_rtt_ms": 26.129,
+      "median_rtt_ms": 13.944,
+      "p95_rtt_ms": 91.712,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792365600,
+      "mean_rtt_ms": 30.824,
+      "median_rtt_ms": 15.922,
+      "p95_rtt_ms": 96.548,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792366200,
+      "mean_rtt_ms": 25.896,
+      "median_rtt_ms": 14.439,
+      "p95_rtt_ms": 91.813,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792366800,
+      "mean_rtt_ms": 28.869,
+      "median_rtt_ms": 16.548,
+      "p95_rtt_ms": 92.787,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792367400,
+      "mean_rtt_ms": 26.444,
+      "median_rtt_ms": 13.898,
+      "p95_rtt_ms": 97.271,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792368000,
+      "mean_rtt_ms": 27.545,
+      "median_rtt_ms": 14.965,
+      "p95_rtt_ms": 81.507,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792368600,
+      "mean_rtt_ms": 26.976,
+      "median_rtt_ms": 16.338,
+      "p95_rtt_ms": 95.266,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792369200,
+      "mean_rtt_ms": 30.734,
+      "median_rtt_ms": 16.317,
+      "p95_rtt_ms": 97.093,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792369800,
+      "mean_rtt_ms": 25.656,
+      "median_rtt_ms": 13.738,
+      "p95_rtt_ms": 85.459,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792370400,
+      "mean_rtt_ms": 27.937,
+      "median_rtt_ms": 15.886,
+      "p95_rtt_ms": 82.248,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792371000,
+      "mean_rtt_ms": 25.953,
+      "median_rtt_ms": 13.668,
+      "p95_rtt_ms": 89.187,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792371600,
+      "mean_rtt_ms": 28.605,
+      "median_rtt_ms": 16.138,
+      "p95_rtt_ms": 96.005,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792372200,
+      "mean_rtt_ms": 25.265,
+      "median_rtt_ms": 13.977,
+      "p95_rtt_ms": 87.916,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792372800,
+      "mean_rtt_ms": 27.308,
+      "median_rtt_ms": 15.275,
+      "p95_rtt_ms": 81.74,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792373400,
+      "mean_rtt_ms": 25.692,
+      "median_rtt_ms": 13.787,
+      "p95_rtt_ms": 92.189,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792374000,
+      "mean_rtt_ms": 28.179,
+      "median_rtt_ms": 15.562,
+      "p95_rtt_ms": 89.548,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792374600,
+      "mean_rtt_ms": 26.44,
+      "median_rtt_ms": 15.036,
+      "p95_rtt_ms": 96.688,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792375200,
+      "mean_rtt_ms": 46.557,
+      "median_rtt_ms": 16.221,
+      "p95_rtt_ms": 87.142,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792375800,
+      "mean_rtt_ms": 25.179,
+      "median_rtt_ms": 13.753,
+      "p95_rtt_ms": 86.031,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792376400,
+      "mean_rtt_ms": 29.277,
+      "median_rtt_ms": 16.136,
+      "p95_rtt_ms": 80.799,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792377000,
+      "mean_rtt_ms": 26.022,
+      "median_rtt_ms": 13.736,
+      "p95_rtt_ms": 88.078,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792377600,
+      "mean_rtt_ms": 27.756,
+      "median_rtt_ms": 14.988,
+      "p95_rtt_ms": 89.723,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792378200,
+      "mean_rtt_ms": 25.571,
+      "median_rtt_ms": 13.646,
+      "p95_rtt_ms": 96.307,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792378800,
+      "mean_rtt_ms": 28.801,
+      "median_rtt_ms": 15.134,
+      "p95_rtt_ms": 96.777,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792379400,
+      "mean_rtt_ms": 26.809,
+      "median_rtt_ms": 13.527,
+      "p95_rtt_ms": 97.618,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792380000,
+      "mean_rtt_ms": 29.193,
+      "median_rtt_ms": 16.218,
+      "p95_rtt_ms": 96.561,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792380600,
+      "mean_rtt_ms": 26.81,
+      "median_rtt_ms": 13.913,
+      "p95_rtt_ms": 96.99,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792381200,
+      "mean_rtt_ms": 27.774,
+      "median_rtt_ms": 15.034,
+      "p95_rtt_ms": 88.494,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792381800,
+      "mean_rtt_ms": 26.463,
+      "median_rtt_ms": 13.987,
+      "p95_rtt_ms": 97.038,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792382400,
+      "mean_rtt_ms": 27.95,
+      "median_rtt_ms": 15.112,
+      "p95_rtt_ms": 90.597,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792383000,
+      "mean_rtt_ms": 27.427,
+      "median_rtt_ms": 13.772,
+      "p95_rtt_ms": 96.433,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792383600,
+      "mean_rtt_ms": 28.415,
+      "median_rtt_ms": 15.928,
+      "p95_rtt_ms": 86.375,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792384200,
+      "mean_rtt_ms": 26.245,
+      "median_rtt_ms": 13.903,
+      "p95_rtt_ms": 96.719,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792384800,
+      "mean_rtt_ms": 28.464,
+      "median_rtt_ms": 15.326,
+      "p95_rtt_ms": 91.886,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792385400,
+      "mean_rtt_ms": 25.544,
+      "median_rtt_ms": 16.087,
+      "p95_rtt_ms": 87.348,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792386000,
+      "mean_rtt_ms": 28.209,
+      "median_rtt_ms": 15.836,
+      "p95_rtt_ms": 94.619,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792386600,
+      "mean_rtt_ms": 25.749,
+      "median_rtt_ms": 13.87,
+      "p95_rtt_ms": 96.337,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792387200,
+      "mean_rtt_ms": 31.361,
+      "median_rtt_ms": 16.596,
+      "p95_rtt_ms": 96.642,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792387800,
+      "mean_rtt_ms": 27.611,
+      "median_rtt_ms": 16.677,
+      "p95_rtt_ms": 96.172,
+      "sample_count": 60
+    },
+    {
+      "timestamp": 1792388400,
+      "mean_rtt_ms": 28.598,
+      "median_rtt_ms": 17.59,
+      "p95_rtt_ms": 86.864,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792389000,
+      "mean_rtt_ms": 27.423,
+      "median_rtt_ms": 16.06,
+      "p95_rtt_ms": 96.167,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792389600,
+      "mean_rtt_ms": 27.568,
+      "median_rtt_ms": 15.758,
+      "p95_rtt_ms": 83.158,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792390200,
+      "mean_rtt_ms": 26.356,
+      "median_rtt_ms": 14.756,
+      "p95_rtt_ms": 96.65,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792390800,
+      "mean_rtt_ms": 27.658,
+      "median_rtt_ms": 16.047,
+      "p95_rtt_ms": 82.929,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792391400,
+      "mean_rtt_ms": 26.036,
+      "median_rtt_ms": 15.888,
+      "p95_rtt_ms": 89.379,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792392000,
+      "mean_rtt_ms": 28.029,
+      "median_rtt_ms": 16.074,
+      "p95_rtt_ms": 84.554,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792392600,
+      "mean_rtt_ms": 25.883,
+      "median_rtt_ms": 15.088,
+      "p95_rtt_ms": 86.152,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792393200,
+      "mean_rtt_ms": 28.273,
+      "median_rtt_ms": 17.209,
+      "p95_rtt_ms": 86.648,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792393800,
+      "mean_rtt_ms": 26.258,
+      "median_rtt_ms": 16.195,
+      "p95_rtt_ms": 86.847,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792394400,
+      "mean_rtt_ms": 29.062,
+      "median_rtt_ms": 17.551,
+      "p95_rtt_ms": 84.014,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792395000,
+      "mean_rtt_ms": 26.566,
+      "median_rtt_ms": 16.817,
+      "p95_rtt_ms": 96.137,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792395600,
+      "mean_rtt_ms": 28.661,
+      "median_rtt_ms": 16.053,
+      "p95_rtt_ms": 89.242,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792396200,
+      "mean_rtt_ms": 26.951,
+      "median_rtt_ms": 16.33,
+      "p95_rtt_ms": 83.699,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792396800,
+      "mean_rtt_ms": 28.097,
+      "median_rtt_ms": 16.765,
+      "p95_rtt_ms": 89.018,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792397400,
+      "mean_rtt_ms": 26.616,
+      "median_rtt_ms": 16.569,
+      "p95_rtt_ms": 92.128,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792398000,
+      "mean_rtt_ms": 27.958,
+      "median_rtt_ms": 16.329,
+      "p95_rtt_ms": 83.509,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792398600,
+      "mean_rtt_ms": 26.186,
+      "median_rtt_ms": 16.249,
+      "p95_rtt_ms": 88.825,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792399200,
+      "mean_rtt_ms": 29.084,
+      "median_rtt_ms": 17.047,
+      "p95_rtt_ms": 97.316,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792399800,
+      "mean_rtt_ms": 26.536,
+      "median_rtt_ms": 16.407,
+      "p95_rtt_ms": 92.629,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792400400,
+      "mean_rtt_ms": 28.4,
+      "median_rtt_ms": 17.1,
+      "p95_rtt_ms": 86.907,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792401000,
+      "mean_rtt_ms": 26.503,
+      "median_rtt_ms": 15.404,
+      "p95_rtt_ms": 96.367,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792401600,
+      "mean_rtt_ms": 28.35,
+      "median_rtt_ms": 15.91,
+      "p95_rtt_ms": 90.904,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792402200,
+      "mean_rtt_ms": 54.2,
+      "median_rtt_ms": 16.09,
+      "p95_rtt_ms": 96.204,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792402800,
+      "mean_rtt_ms": 27.234,
+      "median_rtt_ms": 16.318,
+      "p95_rtt_ms": 83.006,
+      "sample_count": 61
+    },
+    {
+      "timestamp": 1792403400,
+      "mean_rtt_ms": 25.723,
+      "median_rtt_ms": 16.6,
+      "p95_rtt_ms": 85.985,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792404000,
+      "mean_rtt_ms": 27.914,
+      "median_rtt_ms": 15.223,
+      "p95_rtt_ms": 85.53,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792404600,
+      "mean_rtt_ms": 26.063,
+      "median_rtt_ms": 13.847,
+      "p95_rtt_ms": 97.03,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792405200,
+      "mean_rtt_ms": 28.146,
+      "median_rtt_ms": 15.659,
+      "p95_rtt_ms": 91.574,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792405800,
+      "mean_rtt_ms": 26.164,
+      "median_rtt_ms": 13.949,
+      "p95_rtt_ms": 87.695,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792406400,
+      "mean_rtt_ms": 28.466,
+      "median_rtt_ms": 15.924,
+      "p95_rtt_ms": 84.148,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792407000,
+      "mean_rtt_ms": 25.863,
+      "median_rtt_ms": 14.338,
+      "p95_rtt_ms": 81.453,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792407600,
+      "mean_rtt_ms": 28.269,
+      "median_rtt_ms": 17.086,
+      "p95_rtt_ms": 82.769,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792408200,
+      "mean_rtt_ms": 25.763,
+      "median_rtt_ms": 13.88,
+      "p95_rtt_ms": 88.83,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792408800,
+      "mean_rtt_ms": 28.248,
+      "median_rtt_ms": 16.457,
+      "p95_rtt_ms": 88.84,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792409400,
+      "mean_rtt_ms": 26.01,
+      "median_rtt_ms": 15.611,
+      "p95_rtt_ms": 88.302,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792410000,
+      "mean_rtt_ms": 28.112,
+      "median_rtt_ms": 15.94,
+      "p95_rtt_ms": 81.718,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792410600,
+      "mean_rtt_ms": 26.205,
+      "median_rtt_ms": 14.716,
+      "p95_rtt_ms": 93.784,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792411200,
+      "mean_rtt_ms": 27.887,
+      "median_rtt_ms": 15.971,
+      "p95_rtt_ms": 82.743,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792411800,
+      "mean_rtt_ms": 26.261,
+      "median_rtt_ms": 17.181,
+      "p95_rtt_ms": 84.181,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792412400,
+      "mean_rtt_ms": 27.786,
+      "median_rtt_ms": 16.127,
+      "p95_rtt_ms": 83.83,
+      "sample_count": 62
+    },
+    {
+      "timestamp": 1792413000,
+      "mean_rtt_ms": 25.8,
+      "median_rtt_ms": 16.082,
+      "p95_rtt_ms": 83.5,
+      "sample_count": 63
+    },
+    {
+      "timestamp": 1792413600,
+      "mean_rtt_ms": 28.371,
+      "median_rtt_ms": 16.57,
+      "p95_rtt_ms": 82.819,
+      "sample_count": 50
+    }
+  ]
+}

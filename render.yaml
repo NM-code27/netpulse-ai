@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: netpulse-ai-backend
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: DATABASE_URL
+        sync: false   # set to your free Neon/Supabase Postgres connection string
+      - key: LLM_PROVIDER
+        value: groq   # Ollama can't run on the free plan; Groq's free tier powers the hosted demo
+      - key: GROQ_API_KEY
+        sync: false   # create a free key at console.groq.com
+      - key: GROQ_MODEL
+        value: llama-3.1-8b-instant
+      - key: CORS_ORIGINS
+        sync: false   # set to your deployed Vercel URL, e.g. https://netpulse-ai.vercel.app
+      - key: SIMULATOR_TICK_SECONDS
+        value: "5"
+      - key: SCORING_INTERVAL_SECONDS
+        value: "30"
+      - key: FORECAST_HORIZON_MINUTES
+        value: "30"
