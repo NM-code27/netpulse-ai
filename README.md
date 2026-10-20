@@ -13,6 +13,18 @@ with an estimated lead time, the root-cause engine rank *why* (WAN link? device?
 shared DNS? shared app tier?) using the network's actual topology, and an AI
 assistant explain it in plain language with concrete next steps.
 
+![NetPulse AI overview -- live fault detection in progress](docs/screenshots/overview.png)
+
+<details>
+<summary>More screenshots</summary>
+
+| | |
+|---|---|
+| ![Alerts with topology-aware root-cause ranking](docs/screenshots/alerts.png) Alerts, ranked by root cause | ![Held-out model evaluation](docs/screenshots/evaluation.png) Held-out model evaluation |
+| ![Real-world RIPE Atlas validation](docs/screenshots/realworld.png) Real-world data validation | |
+
+</details>
+
 ## Why this exists
 
 Modeled on the problem Cisco's AgenticOps / ThousandEyes / Splunk observability
